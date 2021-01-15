@@ -19,7 +19,7 @@ def gcd(m,n):
 
 	return(cf[-1])
 
-print('Welcome. Let's find the Greatest Common Divisor using a defintion based Algorithm)
+print("Welcome. Let's find the Greatest Common Divisor using a defintion based Algorithm")
 
 m = int(input('please enter first value for the function : '))
 n = int(input('please enter second value for the function : '))
