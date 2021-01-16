@@ -1,4 +1,4 @@
-# Using Euclid's Divison Theorem to solve the Greatest Common Divisor problem!!! Euclid solves it in a easier way with less Time and Space Complexity
+# Using Euclid's Divison Theorem to solve the Greatest Common Divisor problem!!! Euclid solves it in a easier way with less Time and Space Complexity thus saving tome
 import sys
 
 def gcd(m,n):
